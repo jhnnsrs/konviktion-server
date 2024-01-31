@@ -10,6 +10,11 @@
 
 ## Develompent
 
-Want to use Arkitekt with your Notion Workspace? Wait more no...
+Want to use Arkitekt with your Notion Workspace? Well here we go!
 
+
+### Goal
+
+The Goal of this project is to provide a simple and easy to use API for Notion. This API should be able to create, read, update and delete pages and blocks. And allow users
+to add items to tables and databases inside notion.
 
